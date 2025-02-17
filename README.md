@@ -1,1 +1,3 @@
-# lista-tareas-bootsrap
+Carlos Mora Montiel
+# ANGULAR: Aplicación LISTA de TAREAS
+
